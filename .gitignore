@@ -13,7 +13,6 @@ vendor/
 .DS_Store
 *.syso
 coverage.txt
-.vscode/
 *.tar.bz2
 parts/
 prime/
@@ -53,3 +52,7 @@ s3-check-md5
 s3-verify
 xattr
 xl-meta
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
